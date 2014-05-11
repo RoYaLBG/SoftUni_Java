@@ -1,0 +1,2 @@
+javac src/HomeTown.java
+java src/HomeTown
